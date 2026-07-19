@@ -1,6 +1,6 @@
 # Brain Tumor Classification
 
-A deep learning project for classifying brain MRI images into four tumor categories using transfer learning with multiple state-of-the-art convolutional neural networks.
+A deep learning project for classifying brain MRI images into four tumor categories by comparing multiple transfer learning models.
 
 **Tech Used:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Scikit-learn
 
