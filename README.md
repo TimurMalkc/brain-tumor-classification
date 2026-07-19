@@ -13,4 +13,5 @@ A deep learning project for classifying brain MRI images into four tumor categor
 - **Training Visualization** - Generated training and validation accuracy graphs for each architecture
 - **Model Comparison** - Evaluated multiple CNN architectures to determine the best balance between accuracy and training speed
 
+
 <img width="503" height="403" alt="image" src="https://github.com/user-attachments/assets/4cdad334-40b3-4514-a594-f4981633a277" />
